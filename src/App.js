@@ -57,8 +57,8 @@ function App() {
       </div>
       <div className="result">{result}</div>
       <div className="score">
-        <p>Score Joueur: {playerScore}</p>
-        <p>Score Ordinateur: {computerScore}</p>
+        <p>Score du Joueur: {playerScore}</p>
+        <p>Score de l'ordinateur: {computerScore}</p>
       </div>
     </div>
   );
